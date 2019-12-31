@@ -2,3 +2,5 @@ node_modules
 .npm
 npm-debug.log*
 package-lock.json
+dist
+gulpfile.org
