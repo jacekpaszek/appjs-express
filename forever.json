@@ -1,0 +1,7 @@
+{
+    "uid": "appjsexpress",
+    "append": true,
+    "watch": false,
+    "script": "app.js",
+    "sourceDir": "/usr/share/mginx/www/app/dist"
+}
