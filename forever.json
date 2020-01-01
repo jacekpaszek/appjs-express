@@ -3,5 +3,5 @@
     "append": true,
     "watch": false,
     "script": "app.js",
-    "sourceDir": "/usr/share/mginx/www/app/dist"
+    "sourceDir": "/usr/share/nginx/www/app/dist"
 }
